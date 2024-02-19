@@ -7,4 +7,6 @@ func main() {
 	fmt.Println("this is a test")
 	fmt.Println("this is a test11")
 	fmt.Println("f")
+	fmt.Println("c")
+	fmt.Println("d")
 }
